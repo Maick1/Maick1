@@ -1,30 +1,69 @@
-¡Hola! 👋
-¡Bienvenido a mi perfil de GitHub!
+<!DOCTYPE html>
+<html lang="en">
 
-Acerca de mí
-Soy [Tu Nombre], un apasionado ingeniero en software con experiencia en el desarrollo de aplicaciones web y móviles. Me encanta trabajar en proyectos desafiantes que involucren tecnologías modernas y soluciones innovadoras.
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <meta name="description" content="Awesome GitHub Profile Readme Templates" />
+  <title>Awesome GitHub Profile Readme Templates</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 
-Mis Habilidades
-Lenguajes de Programación: JavaScript, Python, Java, C++
-Frameworks y Librerías: React.js, Node.js, Django, Spring Boot
-Bases de Datos: MySQL, MongoDB, PostgreSQL
-Herramientas de Control de Versiones: Git, GitHub
-Metodologías Ágiles: Scrum, Kanban
-Mis Proyectos Destacados
-Proyecto 1: [Nombre del Proyecto]
-Descripción: Breve descripción del proyecto, tecnologías utilizadas y logros destacados.
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css"
+    type="text/css">
 
-Enlace: Enlace al Repositorio
+  <!-- docsify-themeable styles-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
+  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+    title="dark">
 
-Proyecto 2: [Nombre del Proyecto]
-Descripción: Breve descripción del proyecto, tecnologías utilizadas y logros destacados.
+  <style>
+    .sidebar-nav li>a[href^="/"]:not([href*="?id="]),
+    .sidebar-nav li>a[href^="/"]:not([href*="?id="])~ul a,
+    .sidebar-nav li>a[href^="#/"]:not([href*="?id="]),
+    .sidebar-nav li>a[href^="#/"]:not([href*="?id="])~ul a {
+      padding: 0;
+    }
 
-Enlace: Enlace al Repositorio
+    .sidebar-nav li.collapse>a[href^="/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.collapse>a[href^="#/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.active>a[href^="/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.active>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
+      background: transparent;
+    }
+  </style>
+</head>
 
-¡Hablemos!
-Me encantaría colaborar en proyectos interesantes y aprender de otros desarrolladores. No dudes en contactarme a través de:
+<body>
+  <div id="app">Please wait...</div>
 
-Correo Electrónico: tu_correo@ejemplo.com
-LinkedIn: Tu Perfil de LinkedIn
-Twitter: @tu_usuario_twitter
-¡Espero poder trabajar juntos en emocionantes proyectos!
+  <script>
+    window.$docsify = {
+      search: [
+        '/_sidebar',
+      ],
+
+      name: 'Awesome Github Profile Readme Templates',
+      basePath: "https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/",
+      loadSidebar: true,
+      auto2top: true,
+      sidebarDisplayLevel: 1,
+    }
+  </script>
+
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"
+    type="text/javascript">
+    </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
+    type="text/javascript">
+    </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+
+</html>
