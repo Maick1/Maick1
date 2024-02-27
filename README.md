@@ -1,65 +1,18 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil - MICHAEL TOMALÁ ZAMORA</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            margin-bottom: 20px;
-            color: #333;
-        }
-        p {
-            margin-bottom: 20px;
-            line-height: 1.6;
-        }
-        .emoji {
-            font-size: 1.5em;
-            vertical-align: middle;
-        }
-        .highlight {
-            color: #007bff;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1><span class="emoji">💫</span> Sobre mí:</h1>
-        <p>¡Hola! <span class="emoji">👋</span> Soy <strong>MICHAEL TOMALÁ ZAMORA</strong>, un apasionado programador en busca de desafíos y oportunidades desde Ecuador <span class="emoji">🇪🇨</span>. Ingeniero en software con un compromiso firme hacia la excelencia y una pasión desbordante por la tecnología.</p>
+💫 Sobre mí:
+¡Hola! 👋 Soy MICHAEL TOMALÁ ZAMORA, un apasionado programador en busca de desafíos y oportunidades desde Ecuador 🇪🇨. Ingeniero en software con un compromiso firme hacia la excelencia y una pasión desbordante por la tecnología.
 
-        <h2>¿Qué me impulsa? <span class="emoji">🚀</span></h2>
-        <p>Mi sed insaciable de conocimiento y mi determinación inquebrantable son el motor que impulsa mi carrera. Siempre busco proyectos desafiantes que me permitan expandir mis habilidades, enfrentar nuevos problemas y superar obstáculos.</p>
+¿Qué me impulsa? 🚀
+Mi sed insaciable de conocimiento y mi determinación inquebrantable son el motor que impulsa mi carrera. Siempre busco proyectos desafiantes que me permitan expandir mis habilidades, enfrentar nuevos problemas y superar obstáculos.
 
-        <h2>¿Por qué deberías considerarme? <span class="emoji">💡</span></h2>
-        <p><strong>Pasión por la Programación:</strong> La programación no es solo mi trabajo, es mi pasión. Me sumerjo en cada proyecto con entusiasmo y dedicación, buscando siempre superar las expectativas.</p>
-        <p><strong>Trabajo en Equipo:</strong> Creo firmemente en la colaboración y el trabajo en equipo. Disfruto del intercambio de ideas y del aprendizaje mutuo que surge de trabajar con personas talentosas y diversas.</p>
+¿Por qué deberías considerarme? 💡
+Pasión por la Programación: La programación no es solo mi trabajo, es mi pasión. Me sumerjo en cada proyecto con entusiasmo y dedicación, buscando siempre superar las expectativas.
 
-        <h2>¿Qué busco? <span class="emoji">🔍</span></h2>
-        <p>Estoy ansioso por participar en proyectos emocionantes y desafiantes que me permitan aplicar mis habilidades y contribuir al éxito del equipo. Ya sea desarrollando aplicaciones innovadoras, resolviendo problemas complejos o diseñando soluciones creativas, estoy listo para sumergirme de lleno en cualquier desafío que se me presente.</p>
+Trabajo en Equipo: Creo firmemente en la colaboración y el trabajo en equipo. Disfruto del intercambio de ideas y del aprendizaje mutuo.
 
-        <p>¡Estoy emocionado por lo que el futuro me depara y espero tener la oportunidad de trabajar contigo en proyectos apasionantes!</p>
-    </div>
-</body>
-</html>
+¿Qué busco? 🔍
+Estoy ansioso por participar en proyectos emocionantes y desafiantes que me permitan aplicar mis habilidades y contribuir al éxito del equipo. 
 
+¡Estoy emocionado por lo que el futuro me depara y espero tener la oportunidad de trabajar contigo en proyectos apasionantes!
 
 
 ## 🌐 Socials:
